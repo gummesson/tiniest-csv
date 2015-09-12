@@ -1,6 +1,6 @@
 {
   "name": "tiniest-csv",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Parse a CSV string into a two-dimensional array.",
   "main": "index.js",
   "files": [
